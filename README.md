@@ -1,6 +1,3 @@
-Hello!
+Bachelor's Computing Science @ Radboud University
 
-My GitHub is still a work in progress,
-but one day it will be very useful.
-
-:)
+Interests in secure-minded development and security testing. 
